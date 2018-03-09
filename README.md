@@ -1,4 +1,5 @@
-Tutorato di Fisica per CdL in Informatica - II periodo A.A. 2017-2018
+#Tutorato di Fisica per CdL in Informatica - II periodo A.A. 2017-2018
+
 Su questa pagina verranno caricati i pdf dei tutorati.
 Le lezioni si terranno il Lunedì dalle 14:00 alle 16:00 presso il dipartimento di Informatica.
 Durante le lezioni si svolgeranno gli esercizi del tutorato sia individualmente che collettivamente.
