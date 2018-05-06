@@ -1,6 +1,14 @@
 # Tutorato di Fisica per CdL in Informatica - II periodo A.A. 2017-2018
 
-### Aggiornamento 23/03: Caricherò durante la prossima settimana le soluzioni e alcuni svolgimenti dei precedenti tutorati.
+## Tutorato 7/05: il foglio di tutorato non sarà presente alla lezione. Gli esercizi saranno presi da un eserciziario.
+
+# Utilities:
+
++ Circuit: Applet Javascript per la risoluzione e simulazione di circuiti con molti esempi: http://www.falstad.com/circuit/
+
++ Edutecnica: Sito molto ricco di esercizi per tutti gli argomenti trattati (con risoluzioni): http://www.edutecnica.it/index.php
+
+
 
 Su questa pagina verranno caricati i pdf dei tutorati.  
 
