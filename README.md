@@ -1,6 +1,7 @@
-# Tutorato di Fisica per CdL in Informatica - II periodo A.A. 2017-2018
+## Tutorato di Fisica per CdL in Informatica - II periodo A.A. 2017-2018
 
-## Tutorato 7/05: il foglio di tutorato non sarà presente alla lezione. Gli esercizi saranno presi da un eserciziario.
+# Tutorato 7/05 e 13/05: Gli esercizi sono presi dal sito Edutecnica e dalle prove di esame passate.
+Verranno caricati alcuni procedimenti alla lavagna per la risoluzione degli esercizi.
 
 # Utilities:
 
@@ -8,7 +9,7 @@
 
 + Edutecnica: Sito molto ricco di esercizi per tutti gli argomenti trattati (con risoluzioni): http://www.edutecnica.it/index.php
 
-
++ Prove di Esame passate: http://personalpages.to.infn.it/~migliore/didattica/fisica_informatica/Scritti2017/
 
 Su questa pagina verranno caricati i pdf dei tutorati.  
 
